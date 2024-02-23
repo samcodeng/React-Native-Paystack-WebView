@@ -120,8 +120,6 @@ function Pay(){
 
 This project is licensed under MIT license.
 
-## Related Projects
-=
 ### Video Tutorial
 
 - [Accepting Payment With Paystack In React Native](https://www.youtube.com/watch?v=M-V4Q9zk9DE&t=19s) by [just1and0](https://twitter.com/just1and0)
