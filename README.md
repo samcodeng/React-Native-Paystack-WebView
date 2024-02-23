@@ -126,18 +126,3 @@ This project is licensed under MIT license.
 
 - [Accepting Payment With Paystack In React Native](https://www.youtube.com/watch?v=M-V4Q9zk9DE&t=19s) by [just1and0](https://twitter.com/just1and0)
 
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-
-
-# Roadmap
-we have a lot to get done before we hit stable, here's a list;
-- Make the reference usage more user friendly
-- Since you want it to conform to InlineJS, let the variable names also match
-- Let the parameter types also conform to InlineJS parameter types
-- Paystack is a word, hence when used as a package name/class name, let it use PascalCase (Paystack) and when used as a variable, camelCase (paystack)
