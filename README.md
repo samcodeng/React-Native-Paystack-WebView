@@ -8,11 +8,11 @@ The package allows you accept payment using paystack, install, add keys and use.
 
 Add React-Native-Paystack-WebView to your project by running;
 
-`npm install rsamcode-react-native-paystack-webview`
+`npm install samcode-react-native-paystack-webview`
 
 or
 
-`yarn add rsamcode-react-native-paystack-webview`
+`yarn add samcode-react-native-paystack-webview`
 
 ### **One more thing**
 
